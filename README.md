@@ -23,7 +23,7 @@ Witch - The witch has the power to save a player and the power to kill a player.
 
 Cub - The Cub is a werewolf character role whose power is activated when he or she dies in any way other than a werewolf kill. The next night the cub dies, the werewolves get to kill 2 players.
 
-Alpha - The alpha is a werewolf character role whose power is that they cannot be confirmed as a werewolf by the narrator when the police checks him or her. Additionally, if the Alpha dies in any way, townspeople win. 
+Alpha - The alpha is a werewolf character role whose power is that they cannot be confirmed as a werewolf by the narrator when the police checks him or her. Additionally, if the Alpha dies in any way townspeople win. 
 
 TLDR: These are some descriptions of some of the typical roles of this game. More can be found at https://werewolf-the-game.fandom.com/wiki/List_of_Roles. To make it more interesting, you may play with Cupid, Masons, and Executioner.
 
