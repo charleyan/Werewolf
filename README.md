@@ -5,7 +5,7 @@ Note taking, tab-based app for the narrator of the role-playing game Werewolf / 
 
 wikihow.com/Play-Werewolf-(Party-Game)
 
-Role Distribution takes place before the game starts. After the roles are distributed, night and day become the cycle.
+Role Distribution takes place before the game starts. After the roles are distributed, night and day become the regular cycle of the game.
 
 Night occurs when the Narrator tells everyone to close their eyes. Certain characters have special abilities that need to be activiated during the night in secret. For example, the werewolves must point to who they want to kill that night while the other roles close their eyes.
 
@@ -31,4 +31,4 @@ TLDR: These are some descriptions of some of the typical roles of this game. Mor
 Werewolves usually comprise of a third of the whole group, though it depends on the powers / abilities available to the werewolves and how they compare to the powers / abilities of the townspeople. Role distribution usually takes place before the game begins. The app has the capacity to randomize roles and assign the to players inputted by the narrator in the Game Setup page of the Roles Tab. 
 
 # Inspiration
-As my friends and I played more and more Werewolf, and as the roles became more and more complex, writing down everyone's roles and the details of what happend each round, became more and more necessary. So, I decided to undergo the process of making an app for the first time.
+As my friends and I played more and more Werewolf, and as the roles became more and more complex, writing down everyone's roles and the details of what happend each round as the narrater became more and more necessary. So, I decided to undergo the process of making an app for the first time.
